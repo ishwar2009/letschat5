@@ -1,0 +1,22 @@
+#msg{
+    width:600px;
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+body{
+    background-color: cornflowerblue;
+}
+.boy{
+    background-color: cornflowerblue;
+}
+.input_div_message_page
+{
+    margin-top: 400px;
+    background-color: crimson;
+}
+.user_tick
+{
+	width:20px;
+}

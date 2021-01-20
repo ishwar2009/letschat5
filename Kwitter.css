@@ -1,0 +1,25 @@
+
+.image{
+    float:left;
+}
+
+.myimage{
+    height: 100%;
+    width: 100%;
+
+
+}
+.mydiv{
+    float: right;
+    margin-right: 500px;
+    margin-top: 50px;
+    
+}
+h1{
+    width: 300px;
+}
+body{
+    background-image: url("http://i.dailymail.co.uk/i/pix/2016/04/12/13/3318CDB600000578-3535769-Sky_launched_its_own_children_s_TV_app_called_Sky_Kids_for_iPad_-a-34_1460464787452.jpg");
+    background-position: center;
+    background-size: cover;
+}
